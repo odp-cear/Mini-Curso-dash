@@ -1,0 +1,8 @@
+dash
+dash-boostrap-components
+dash-ag-grid
+pandas
+ploty
+openpyxl
+guinicorn
+waitress
